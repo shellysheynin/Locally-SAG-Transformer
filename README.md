@@ -1,6 +1,6 @@
 # Locally-Shifted-Attention-With-Early-Global-Integration
 
-![](figures/pipeline.svg)
+![](figures/illustration.jpg)
 ## Pretrained models
 You can download all the models from [here](https://drive.google.com/drive/folders/19NyfUxEebz_QanA99m_KIgIbPR5QY0OL?usp=sharing).
 
