@@ -1,5 +1,9 @@
 # Locally-Shifted-Attention-With-Early-Global-Integration
 
+## Pretrained models
+You can download all the models from [here]()https://drive.google.com/drive/folders/19NyfUxEebz_QanA99m_KIgIbPR5QY0OL?usp=sharing.
+
+
 ## Training
 ### imagenet
 * python -m torch.distributed.launch --nproc_per_node=8  --use_env main_tiny_imagenet.py --data-set IMNET --model tiny_patch0 --data-path PATH_TO_IMAGENET --batch-size 92 --output_dir output
